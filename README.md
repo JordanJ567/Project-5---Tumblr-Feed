@@ -23,20 +23,23 @@ Time spent: **96** hours spent in total
 The following **required** functionality is completed:
 
 - [X ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [ x] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
 
 - [X ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
+- [ x] App has a refresh control to update the table view
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://www.loom.com/share/8e7f735998eb46f69850667bf7c08d85
+https://www.loom.com/share/8e7f735998eb46f69850667bf7c08d85 (old)
+
+
+https://www.loom.com/share/5a7236f0dbe34d3dbc5055cf451146ac (Updated)
 
 ## Notes
 
